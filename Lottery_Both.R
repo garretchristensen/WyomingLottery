@@ -6,7 +6,7 @@ library(shiny)
 library(shinyBS)
 library(DT)
 
-temp <- read.csv("./Entrants.csv", stringsAsFactors = FALSE) #LOAD THE DATA
+temp <- read.csv("./RawEntrants.csv", stringsAsFactors = FALSE) #LOAD THE DATA
 df <- as_tibble(temp)
 
 # CSV already has multipliers applied (Volunteer *4, MarkCourse *6, PriorFinishes *2)
