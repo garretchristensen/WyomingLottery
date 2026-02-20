@@ -10,7 +10,7 @@ The general goals of the lottery are as follows:
 
 So here are the activities for which we will award tickets:
 
-* Volunteer shifts at Wyoming Range or other Freestone Endurance events
+* Volunteer shifts at Wyoming Range
 * Course marking shifts
 * Previous finishes of the race
 
