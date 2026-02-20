@@ -1,6 +1,6 @@
-## Alternative Algorithm
+## Counting Algorithm
 
-This panel runs the lottery using an alternative selection method for comparison purposes. The algorithm works as follows:
+This panel runs the lottery using a simple counting method for comparison purposes. (You won't get the same results as above with, but both are equally fair, you just have to choose one.) The algorithm works as follows:
 
 1. **Assign ticket numbers.** Every ticket held by every entrant is assigned a unique random number between 1 and the total number of tickets in the pool.
 

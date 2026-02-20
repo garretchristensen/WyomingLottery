@@ -1,0 +1,13 @@
+name: WyomingLottery
+title: WyomingLottery
+username: garretchristensen
+account: garretchristensen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16720430
+bundleId: 11605356
+url: https://garretchristensen.shinyapps.io/WyomingLottery/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .~lock.Entrants.csv#|Entrants.csv|Lottery_Simple.R

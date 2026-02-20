@@ -77,7 +77,7 @@ shinyApp(
                                downloadButton("downloadWaitlist", "Download Waitlist"),
                                style = "success"
                ),
-               bsCollapsePanel("Alternative Algorithm: Results",
+               bsCollapsePanel("Counting Algorithm: Results",
                                htmltools::includeMarkdown("./markdown/alternativealgorithm.md"),
                                bsCollapse(id = "collapseTickets", multiple = FALSE,
                                  bsCollapsePanel("Ticket Number Assignments (click to expand)",
